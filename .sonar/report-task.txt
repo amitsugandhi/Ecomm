@@ -1,0 +1,5 @@
+projectKey=php_sonar
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/php_sonar
+ceTaskId=AWAryB6zMGWMCTLWI8St
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWAryB6zMGWMCTLWI8St
